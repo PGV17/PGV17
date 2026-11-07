@@ -144,17 +144,7 @@ Exploring ideas at the intersection of software engineering and AI.
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
 
-- 🥇 **Codeforces Pupil** — Peak rating 1200+.
-- ⭐ **HackerRank** — 6-Star Problem Solving.
-- 💡 Solved **800+ DSA problems** across coding platforms.
-- 🏅 Ranked in the **Top 4% globally** in Codeft Coding Challenge.
-- 🚩 **Finalist** — Code Red Hackathon.
-- 🎓 Recipient of the **udChalo Scholarship for Overall Best Student (2023)**.
-- 🇮🇳 Cleared the **NDA examination three times**.
-
----
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
